@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4eECK4a2YvqCW1JaN4jPgYVdG7RHwHkbEWjrpVSRHL8wz8cEZMeUL6wvh2gjke2auKaIBelfoaXBr9PO+qf6A==",
+  "success": true,
+  "projectFilePath": "C:\\Dayvidson\\workspace\\ws-dio\\cadastro-series-dotnet-dio\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

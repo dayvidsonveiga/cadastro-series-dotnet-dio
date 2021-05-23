@@ -1,0 +1,13 @@
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Dayvidson\workspace\ws-dio\cadastro-series-dotnet-dio\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
